@@ -3,7 +3,7 @@
 Oxicord is a free, opensource self-hostable discord-compatible chat, voice and video platform.
 
 <p align="center">
-  <img src="/profile/localhost_5173_channels_1333119083691905090_1333119100670447731(FHD).png" alt="Screenshot of the Revolt client with the Revolt Testers server open in the Information and Rules channel." />
+  <img src="/profile/localhost_5173_channels_1333119083691905090_1333119100670447731(FHD).png"/>
 </p>
 
 ## Repositories
