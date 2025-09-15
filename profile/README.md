@@ -10,7 +10,7 @@ Oxicord is a free, opensource self-hostable discord-compatible chat, voice and v
 
 | Repository                                              | Description                            |             Maintainer(s)              |
 | ------------------------------------------------------- | -------------------------------------- | :------------------------------------: |
-| [client](https://github.com/oxicord/oxicord-web-preact) | Preact web client                      | [@Gamatek](https://github.com/Gamatek) |
+| [client](https://github.com/oxicord/oxicord-web-preact) | Preact web client                      | [@Gamatek](https://github.com/Gamatek) and @Vality |
 | [server](https://github.com/oxicord/oxicord-server)     | Implementation of API, gateway and CDN | [@Gamatek](https://github.com/Gamatek) |
 | [oxicord.js](https://github.com/oxicord/oxicord.js)     | JavaScript library                     | [@Gamatek](https://github.com/Gamatek) |
 | [oxicord](https://github.com/oxicord/oxicord)           | Landing page                           | [@Gamatek](https://github.com/Gamatek) |
