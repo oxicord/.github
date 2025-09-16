@@ -1,4 +1,4 @@
-# 🫧 Oxicord
+<h1 align="center">🫧 Oxicord</h1>
 
 Oxicord is a free, opensource self-hostable discord-compatible chat, voice and video platform.
 
@@ -8,9 +8,9 @@ Oxicord is a free, opensource self-hostable discord-compatible chat, voice and v
 
 ## Repositories
 
-| Repository                                              | Description                            |             Maintainer(s)              |
-| ------------------------------------------------------- | -------------------------------------- | :------------------------------------: |
-| [client](https://github.com/oxicord/oxicord-web-preact) | Preact web client                      | [@Gamatek](https://github.com/Gamatek) and @Vality |
-| [server](https://github.com/oxicord/oxicord-server)     | Implementation of API, gateway and CDN | [@Gamatek](https://github.com/Gamatek) |
-| [oxicord.js](https://github.com/oxicord/oxicord.js)     | JavaScript library                     | [@Gamatek](https://github.com/Gamatek) |
-| [oxicord](https://github.com/oxicord/oxicord)           | Landing page                           | [@Gamatek](https://github.com/Gamatek) |
+| Repository                                              | Description                            |  Maintainer(s)                                                                      |
+| ------------------------------------------------------- | -------------------------------------- | :---------------------------------------------------------------------------------: |
+| [client](https://github.com/oxicord/oxicord-web-preact) | Preact web client                      | [@Gamatek](https://github.com/Gamatek) and [@Vality](https://github.com/Spaced-one) |
+| [server](https://github.com/oxicord/oxicord-server)     | Implementation of API, gateway and CDN | [@Gamatek](https://github.com/Gamatek)                                              |
+| [oxicord.js](https://github.com/oxicord/oxicord.js)     | JavaScript library                     | [@Gamatek](https://github.com/Gamatek)                                              |
+| [oxicord](https://github.com/oxicord/oxicord)           | Landing page                           | [@Gamatek](https://github.com/Gamatek)                                              |
