@@ -1,4 +1,4 @@
-<h1 align="center">🫧 Oxicord</h1>
+# 🫧 Oxicord
 
 Oxicord is a free, opensource self-hostable discord-compatible chat, voice and video platform.
 
